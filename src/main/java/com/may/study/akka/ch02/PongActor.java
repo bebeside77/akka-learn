@@ -1,4 +1,4 @@
-package com.may.study.akka.pingpong;
+package com.may.study.akka.ch02;
 
 import akka.actor.ActorRef;
 import akka.actor.UntypedActor;
